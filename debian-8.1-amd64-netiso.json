@@ -83,7 +83,7 @@
   ],
   "variables": {
     "arch": "64",
-    "box_basename": "debian-8.0",
+    "box_basename": "debian-8.1",
     "build_timestamp": "{{isotime \"20060102150405\"}}",
     "git_revision": "__unknown_git_revision__",
     "metadata": "floppy/dummy_metadata.json",
